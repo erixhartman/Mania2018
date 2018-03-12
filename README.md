@@ -2,4 +2,4 @@
 
 I decided to make this site to let my friends know they should come over and watch the biggest event of the year, as well as RSVP and select their snack options. 
 
-This site is fully responsive.
+The site is fully responsive.
